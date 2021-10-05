@@ -30,6 +30,7 @@ namespace BestRestos.Controllers
 
     public ActionResult Create()
     {
+      ViewBag.CuisineId = new SelectList(_db.Cuisines, "CuisineId", "Name");
       return View();
     }
 

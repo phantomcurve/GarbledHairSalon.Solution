@@ -1,6 +1,6 @@
 @model BestRestos.Models.Restaurant
 
-<h4>Add a new restuarnt</h4>
+<h4>Add a new restaurant</h4>
 @using (Html.BeginForm())
 {
     @Html.LabelFor(model => model.Name)
@@ -9,6 +9,9 @@
     @Html.LabelFor(model => model.MichelinStars)
     @Html.TextBoxFor(model => model.MichelinStars)
     <br>
-    <input type="submit" value="Add new restaurant" />
+    @Html.LabelFor(model => model.Cuisine)
+    @Html.DropDownList("CuisineId")
+
+    <input type="submit" value="Add new restaurant" class="btn btn-default" />
 }
 <p>@Html.ActionLink("Show all restaurants", "Index")</p>
