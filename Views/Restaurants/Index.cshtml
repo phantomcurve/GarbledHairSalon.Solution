@@ -12,7 +12,6 @@
   @foreach(Restaurant restaurant in Model)
   {
       <li>@Html.ActionLink($"{restaurant.Name}", "Details", new { id = restaurant.RestaurantId })</li>
-      //add breed, doa, and gender
   }
 </ul>
 
