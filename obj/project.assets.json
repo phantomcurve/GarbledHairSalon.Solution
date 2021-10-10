@@ -5692,11 +5692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/phantom/Desktop/best-restos/BestRestos.csproj",
-      "projectName": "BestRestos",
-      "projectPath": "/Users/phantom/Desktop/best-restos/BestRestos.csproj",
+      "projectUniqueName": "/Users/phantom/Desktop/HairSalon.Solution/HairSalon/HairSalon.csproj",
+      "projectName": "HairSalon",
+      "projectPath": "/Users/phantom/Desktop/HairSalon.Solution/HairSalon/HairSalon.csproj",
       "packagesPath": "/Users/phantom/.nuget/packages/",
-      "outputPath": "/Users/phantom/Desktop/best-restos/obj/",
+      "outputPath": "/Users/phantom/Desktop/HairSalon.Solution/HairSalon/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/phantom/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/QfkxWHNH+yBa3Nyubqk3kDZWxOhN4ZzEWe8dK/12oe0FjVQeY9yLG4mi+Y8CzEj6Bx+wybw7py3bk5Qo9dFDg==",
+  "dgSpecHash": "pVD9eKDMrqttB9E0Oj0pq+H5EtYSTpx2Se1hjRWS0KXpZRSj+qtRtyImviP4TXBQkmKBCcSDRf0Rp2gzIkd/Pw==",
   "success": true,
-  "projectFilePath": "/Users/phantom/Desktop/best-restos/BestRestos.csproj",
+  "projectFilePath": "/Users/phantom/Desktop/HairSalon.Solution/HairSalon/HairSalon.csproj",
   "expectedPackageFiles": [
     "/Users/phantom/.nuget/packages/castle.core/4.4.1/castle.core.4.4.1.nupkg.sha512",
     "/Users/phantom/.nuget/packages/microsoft.entityframeworkcore/5.0.0/microsoft.entityframeworkcore.5.0.0.nupkg.sha512",

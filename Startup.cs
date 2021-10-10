@@ -4,9 +4,9 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using BestRestos.Models;
+using HairSalon.Models;
 
-namespace BestRestos
+namespace HairSalon
 {
   public class Startup
   {
@@ -25,7 +25,7 @@ namespace BestRestos
       services.AddMvc();
 
       services.AddEntityFrameworkMySql()
-        .AddDbContext<BestRestosContext>(options => options
+        .AddDbContext<HairSalonContext>(options => options
         .UseMySql(Configuration["ConnectionStrings:DefaultConnection"], ServerVersion.AutoDetect(Configuration["ConnectionStrings:DefaultConnection"])));
     }
 

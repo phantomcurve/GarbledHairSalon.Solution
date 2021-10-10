@@ -1,5 +1,5 @@
 {
-  "FilePath": "/Users/phantom/Desktop/best-restos/BestRestos.csproj",
+  "FilePath": "/Users/phantom/Desktop/HairSalon.Solution/HairSalon/HairSalon.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15616,56 +15616,56 @@
     ],
     "CSharpLanguageVersion": 900
   },
-  "RootNamespace": "BestRestos",
+  "RootNamespace": "HairSalon",
   "Documents": [
     {
-      "FilePath": "/Users/phantom/Desktop/best-restos/Views/Cuisines/Details.cshtml",
-      "TargetPath": "Views\\Cuisines\\Details.cshtml",
+      "FilePath": "/Users/phantom/Desktop/HairSalon.Solution/HairSalon/Views/Clients/Create.cshtml",
+      "TargetPath": "Views\\Clients\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/phantom/Desktop/best-restos/Views/Cuisines/Create.cshtml",
-      "TargetPath": "Views\\Cuisines\\Create.cshtml",
+      "FilePath": "/Users/phantom/Desktop/HairSalon.Solution/HairSalon/Views/Clients/Index.cshtml",
+      "TargetPath": "Views\\Clients\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/phantom/Desktop/best-restos/Views/Cuisines/Index.cshtml",
-      "TargetPath": "Views\\Cuisines\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/phantom/Desktop/best-restos/Views/Restaurants/Details.cshtml",
-      "TargetPath": "Views\\Restaurants\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/phantom/Desktop/best-restos/Views/Restaurants/Delete.cshtml",
-      "TargetPath": "Views\\Restaurants\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/phantom/Desktop/best-restos/Views/Cuisines/Edit.cshtml",
-      "TargetPath": "Views\\Cuisines\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/phantom/Desktop/best-restos/Views/Home/Index.cshtml",
+      "FilePath": "/Users/phantom/Desktop/HairSalon.Solution/HairSalon/Views/Home/Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/phantom/Desktop/best-restos/Views/Cuisines/Delete.cshtml",
-      "TargetPath": "Views\\Cuisines\\Delete.cshtml",
+      "FilePath": "/Users/phantom/Desktop/HairSalon.Solution/HairSalon/Views/Stylists/Details.cshtml",
+      "TargetPath": "Views\\Stylists\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/phantom/Desktop/best-restos/Views/Restaurants/Index.cshtml",
-      "TargetPath": "Views\\Restaurants\\Index.cshtml",
+      "FilePath": "/Users/phantom/Desktop/HairSalon.Solution/HairSalon/Views/Stylists/Edit.cshtml",
+      "TargetPath": "Views\\Stylists\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/phantom/Desktop/best-restos/Views/Restaurants/Create.cshtml",
-      "TargetPath": "Views\\Restaurants\\Create.cshtml",
+      "FilePath": "/Users/phantom/Desktop/HairSalon.Solution/HairSalon/Views/Stylists/Delete.cshtml",
+      "TargetPath": "Views\\Stylists\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/phantom/Desktop/HairSalon.Solution/HairSalon/Views/Clients/Delete.cshtml",
+      "TargetPath": "Views\\Clients\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/phantom/Desktop/HairSalon.Solution/HairSalon/Views/Stylists/Create.cshtml",
+      "TargetPath": "Views\\Stylists\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/phantom/Desktop/HairSalon.Solution/HairSalon/Views/Clients/Details.cshtml",
+      "TargetPath": "Views\\Clients\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/phantom/Desktop/HairSalon.Solution/HairSalon/Views/Stylists/Index.cshtml",
+      "TargetPath": "Views\\Stylists\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
